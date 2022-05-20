@@ -1,6 +1,6 @@
 baseURL: https://hanyicheng.net/
 languageCode: zh-cn
-title: 韩意铖的个人主页
+title: 韩意铖的个人网站
 theme: han
 markup:
   defaultMarkdownHandler: pandoc
