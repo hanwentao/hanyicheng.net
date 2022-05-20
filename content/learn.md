@@ -1,0 +1,135 @@
+---
+title: 线上学习资源
+date: 2022-05-20T11:59:04+08:00
+---
+
+# “1 + X 课程”线上学习资源 {#header}
+
+清华附小2021级11班
+
+## 5月16日—5月20日 {#w02}
+
+[学习资源包](https://cloud.tsinghua.edu.cn/d/4275f8e6c11643979de3/)
+
+### 5月16日（周一） {#20220516}
+
+* [线上升国旗仪式](https://yunke.campus.qq.com/home/#/course/pcDetail?id=2000019460&type=public&ActivityClassCode=ctxpcj0&grade=一年级)
+* [语文：《一分钟》第二课时](http://www.centv.cn/p/355239.html)
+* [数学：复习《图书馆》第一课时](http://www.centv.cn/p/354002.html)
+* [英语：Unit 6 Lesson 2](http://www.centv.cn/p/397921.html)
+* 艺术创作
+  * [视频学习方式：《我的好伙伴》](https://basic.smartedu.cn/syncClassroom/classActivity?activityId=e45634be-2081-4bf3-bad4-20329c9f2e59)
+  * [在线学习方式](https://meeting.tencent.com/dm/tM8C0YnnGXz8)（时间：15:30-16:00）
+
+### 5月17日（周二） {#20220517}
+
+* [语文：复习第三单元词语](https://cloud.tsinghua.edu.cn/d/4275f8e6c11643979de3/)
+* 数学：复习
+* [英语：Unit 6 Lesson 3](http://www.centv.cn/p/398205.html)
+* 律动音乐
+  * [视频学习方式：《放牛歌》](http://www.centv.cn/p/389823.html)
+  * [在线学习方式](https://meeting.tencent.com/dm/rm6lhsuxoyVG)（时间：15:45-16:15）
+
+### 5月18日（周三） {#20220518}
+
+* [语文：《动物王国开大会》第一课时](http://www.centv.cn/p/355472.html)
+* [数学：复习《图书馆》第二课时](http://www.centv.cn/p/354003.html)
+* 振宁科学
+  * [视频学习方式：动物的家](https://cloud.tsinghua.edu.cn/d/4275f8e6c11643979de3/?p=%2F线上科学课15周&mode=list)
+  * [在线学习方式](https://meeting.tencent.com/dm/SXbDGduiWmNn)（时间：15:30-16:15）
+
+### 5月19日（周四） {#20220519}
+
+* [语文：复习第四单元词语](https://cloud.tsinghua.edu.cn/d/4275f8e6c11643979de3/)
+* [数学：《摘苹果》](http://www.centv.cn/p/354378.html)
+* [英语：Unit 6 Lesson 4](http://www.centv.cn/p/398323.html)
+* 道德法制
+  * [视频学习方式](https://cloud.tsinghua.edu.cn/d/4275f8e6c11643979de3/files/?p=%2F队前教育第三期终版.mp4)
+  * [在线学习方式](https://meeting.tencent.com/dm/Q1O3G8XQFR7H)（时间：15:40-16:05）
+
+### 5月20日（周五） {#20220520}
+
+* 语文：自主复习 1-4 单元生字
+* 数学：自主复习
+* 阳光体育
+  * [视频学习方式：《各种方式的拋接轻物与游戏》](http://www.centv.cn/p/353040.html)
+  * [在线学习方式](https://meeting.tencent.com/dm/EsmLoKgg6Q5j)（时间：15:00-15:25）
+
+## 5月9日—5月13日 {#w01}
+
+[学习资源包](https://cloud.tsinghua.edu.cn/d/134d81d351f34f42b171/)
+
+### 5月9日（周一） {#20220509}
+
+* [线上升国旗仪式](https://yunke.campus.qq.com/home/#/course/pcDetail?id=2000019332&type=public&ActivityClassCode=ctxpcj0&grade=一年级)
+* [语文：《文具的家》第一课时](http://www.centv.cn/p/354687.html)
+* [数学：动手做（一）](http://www.centv.cn/p/350566.html)
+* [英语：Unit 5 Lesson 3](http://www.centv.cn/p/394921.html)
+
+### 5月10日（周二） {#20220510}
+
+* [语文：复习第一单元词语](https://cloud.tsinghua.edu.cn/d/134d81d351f34f42b171/)
+* [数学：动手做（二）](http://www.centv.cn/p/351257.html)
+* [英语：Unit 5 Lesson 4](http://www.centv.cn/p/395891.html)
+
+### 5月11日（周三） {#20220511}
+
+* [语文：《文具的家》第二课时](http://www.centv.cn/p/354688.html)
+* [数学：动手做（三）](http://www.centv.cn/p/351258.html)
+
+### 5月12日（周四） {#20220512}
+
+* [语文：《一分钟》第一课时](http://www.centv.cn/p/355238.html)
+* [数学：四单元复习](https://mp.weixin.qq.com/s/ZB9AEj6GSLC6zBEbpKwoXg)
+* [英语：Unit 6 Lesson 1](http://www.centv.cn/p/397364.html)
+
+### 5月13日（周五） {#20220513}
+
+* [语文：复习第二单元词语](https://cloud.tsinghua.edu.cn/d/134d81d351f34f42b171/)
+* 数学：自主练习
+
+### 其他学科 {#w01-other}
+
+* [音乐：《司马光砸缸》](http://www.centv.cn/p/356428.html)
+* [科学：观察蜗牛](https://cloud.tsinghua.edu.cn/d/134d81d351f34f42b171/)
+* [美术：《给瓶子穿彩衣》彩泥篇](http://www.centv.cn/p/391778.html)
+
+## 5月5日—5月7日 {#w00}
+
+[学习资源包](https://cloud.tsinghua.edu.cn/d/636498f01f5a46509dda/)
+
+### 5月5日（周四） {#20220505}
+
+* [语文：复习《荷叶圆圆》](http://www.centv.cn/p/354260.html)
+* [数学：《认识图形》](http://www.centv.cn/p/350565.html)
+* [英语：Unit 5 Lesson 1](http://www.centv.cn/p/393741.html)
+
+### 5月6日（周五） {#20220506}
+
+* [语文：《要下雨了》（一）](http://www.centv.cn/p/354478.html)
+* [数学：专题拓展《图形的简单拼组》](https://mp.weixin.qq.com/s/wnAcxZEsarTrUXeRybkXSw)
+* [英语：Unit 5 Lesson 2](http://www.centv.cn/p/394474.html)
+
+### 5月7日（周六） {#20220507}
+
+* [语文：《要下雨了》（二）](http://www.centv.cn/p/354479.html)
+* 数学：阅读（二选一）
+  * [《寻找消失的爸爸》](https://mp.weixin.qq.com/s/2ZIVbIATEmgycGWkzDiIzg)
+  * [《寻找图形》](https://mp.weixin.qq.com/s/RDur8NvV2H8tVX67hZQ4tw)
+
+### 其他学科 {#w00-other}
+
+* [美术：《拼拼贴贴》](http://www.centv.cn/p/393440.html)
+* [音乐：《咏鹅》](http://www.centv.cn/p/356427.html)
+* [科学：校园里的动物](https://cloud.tsinghua.edu.cn/d/636498f01f5a46509dda/)
+
+<script>
+  var now = new Date();
+  var year = now.getFullYear();
+  var month = now.getMonth() + 1;
+  var day = now.getDate();
+  var id = year.toString() + month.toString().padStart(2, '0') +
+           day.toString().padStart(2, '0');
+  var element = document.getElementById(id);
+  element.scrollIntoView({behavior: "smooth"});
+</script>
