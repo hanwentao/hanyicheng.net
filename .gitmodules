@@ -1,0 +1,3 @@
+[submodule "themes/han"]
+	path = themes/han
+	url = https://github.com/hanwentao/hugo-han.git
