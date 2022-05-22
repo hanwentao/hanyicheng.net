@@ -7,6 +7,53 @@ date: 2022-05-20T11:59:04+08:00
 
 清华附小2021级11班
 
+## 5月23日—5月27日 {#w03}
+
+[学习资源包](https://cloud.tsinghua.edu.cn/d/f31d9d0e3ace43279c99/)
+
+### 5月23日（周一） {#20220523}
+
+* [语文：《动物王国开大会》第二课时](http://www.centv.cn/p/355474.html)
+* [数学：《练习四》](http://www.centv.cn/p/354379.html)
+* 英语：学习《典范英语》Lesson 30
+* 艺术创作
+  * [视频学习方式](https://cloud.tsinghua.edu.cn/d/f31d9d0e3ace43279c99/files/?p=%2F第20周-第3课时-《一年级下册第五单元%203.雨中情》-1.mp4)
+  * [在线学习方式：腾讯会议 937-9187-9241](https://meeting.tencent.com/dm/tM8C0YnnGXz8)（时间：15:40-16:05）
+
+### 5月24日（周二） {#20220524}
+
+* [语文：《读读童谣和儿歌》](http://www.centv.cn/p/349151.html)
+* [数学：《阅览室》（一）](http://www.centv.cn/p/355139.html)
+* 英语：学习《典范英语》Lesson 31
+* 律动音乐
+  * [视频学习方式：《闪烁的小星星》](http://www.centv.cn/p/394787.html)
+  * [在线学习方式：腾讯会议 634-2588-5042](https://meeting.tencent.com/dm/VoTPMMKUlBGD)（时间：15:40-16:05）
+
+### 5月25日（周三） {#20220525}
+
+* [语文：复习第五单元词语](https://cloud.tsinghua.edu.cn/d/f31d9d0e3ace43279c99/?p=%2F语文词语练习&mode=list)
+* 数学：两位数减一位数退位减法自主复习
+* 振宁科学
+  * [视频学习方式：观察鱼](https://cloud.tsinghua.edu.cn/d/f31d9d0e3ace43279c99/?p=%2F科学-观察鱼&mode=list)
+  * [在线学习方式：腾讯会议 887-6393-3171](https://meeting.tencent.com/dm/Z3BOf6zE65zN)（时间：15:40-16:05）
+
+### 5月26日（周四） {#20220526}
+
+* [语文：《小猴子下山》第一课时](http://www.centv.cn/p/355642.html)
+* [数学：阅读《私房蓝莓派》](https://mp.weixin.qq.com/s/t0_1Lfx417T5XJkEbr4dxQ)
+* 英语：复习课本 Unit 5 Drink
+* 道德法制
+  * [视频学习方式](https://cloud.tsinghua.edu.cn/d/f31d9d0e3ace43279c99/files/?p=%2F队前教育第四期终版.mp4)
+  * [在线学习方式：腾讯会议 241-313-402](https://meeting.tencent.com/dm/Q1O3G8XQFR7H)（时间：15:40-16:05）
+
+### 5月27日（周五） {#20220527}
+
+* [语文：复习第六单元词语](https://cloud.tsinghua.edu.cn/d/f31d9d0e3ace43279c99/?p=%2F语文词语练习&mode=list)
+* [数学：自主复习本周学习内容](https://cloud.tsinghua.edu.cn/d/f31d9d0e3ace43279c99/)
+* 阳光体育
+  * [视频学习方式：《各种方式的拋接轻物与游戏》（二）](http://www.centv.cn/p/353043.html)
+  * [在线学习方式：腾讯会议 487-568-163](https://meeting.tencent.com/dm/EsmLoKgg6Q5j)（时间：15:00-15:25）
+
 ## 5月16日—5月20日 {#w02}
 
 [学习资源包](https://cloud.tsinghua.edu.cn/d/4275f8e6c11643979de3/)
@@ -131,5 +178,7 @@ date: 2022-05-20T11:59:04+08:00
   var id = year.toString() + month.toString().padStart(2, '0') +
            day.toString().padStart(2, '0');
   var element = document.getElementById(id);
-  element.scrollIntoView({behavior: "smooth"});
+  if (element !== null) {
+    element.scrollIntoView({behavior: "smooth"});
+  }
 </script>
