@@ -16,7 +16,7 @@ date: 2022-05-20T11:59:04+08:00
 * [线上升国旗仪式](https://yunke.campus.qq.com/home/#/course/pcDetail?id=2000019747&type=public&ActivityClassCode=ctxpcj0&grade=一年级)
 * [语文：《动物王国开大会》第二课时](http://www.centv.cn/p/355474.html)
 * [数学：《练习四》](http://www.centv.cn/p/354379.html)
-* 英语：学习《典范英语》Lesson 30
+* [英语：学习《典范英语》Lesson 30](https://cloud.tsinghua.edu.cn/d/f31d9d0e3ace43279c99/?p=%2F英语&mode=list)
 * 艺术创作
   * [视频学习方式](https://cloud.tsinghua.edu.cn/d/f31d9d0e3ace43279c99/files/?p=%2F第20周-第3课时-《一年级下册第五单元%203.雨中情》-1.mp4)
   * [在线学习方式：腾讯会议 937-9187-9241](https://meeting.tencent.com/dm/tM8C0YnnGXz8)（时间：15:40-16:05）
@@ -25,7 +25,7 @@ date: 2022-05-20T11:59:04+08:00
 
 * [语文：《读读童谣和儿歌》](http://www.centv.cn/p/349151.html)
 * [数学：《阅览室》（一）](http://www.centv.cn/p/355139.html)
-* 英语：学习《典范英语》Lesson 31
+* [英语：学习《典范英语》Lesson 31](https://cloud.tsinghua.edu.cn/d/f31d9d0e3ace43279c99/?p=%2F英语&mode=list)
 * 律动音乐
   * [视频学习方式：《闪烁的小星星》](http://www.centv.cn/p/394787.html)
   * [在线学习方式：腾讯会议 634-2588-5042](https://meeting.tencent.com/dm/VoTPMMKUlBGD)（时间：15:40-16:05）
