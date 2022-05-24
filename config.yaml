@@ -1,7 +1,7 @@
 baseURL: https://hanyicheng.net/
 languageCode: zh-cn
 title: 韩意铖的个人网站
-copyright: <a href="https://hanwentao.net">韩文弢</a>
+copyright: '&copy;2022 <a href="https://hanwentao.net">韩文弢</a>'
 theme: han
 markup:
   defaultMarkdownHandler: pandoc
