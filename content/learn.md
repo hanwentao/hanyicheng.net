@@ -7,6 +7,42 @@ date: 2022-05-20T11:59:04+08:00
 
 清华附小2021级11班
 
+## 5月30日—6月2日 {#w04}
+
+[学习资源包](https://cloud.tsinghua.edu.cn/d/1fc5d4469c9947609d0b/)
+
+### 5月30日（周一） {#20220530}
+
+* 09:00-09:40 [语文](https://meeting.tencent.com/dm/KcNWSqsEsWer)
+* 10:20-11:00 [英语](https://meeting.tencent.com/dm/KcNWSqsEsWer)
+* 15:30-15:55 艺术创作
+  * [视频学习方式](https://cloud.tsinghua.edu.cn/d/1fc5d4469c9947609d0b/files/?p=%2F美术：资源课（手偶）.mp4)
+  * [在线学习方式](https://meeting.tencent.com/dm/tM8C0YnnGXz8)
+
+### 5月31日（周二） {#20220531}
+
+* 09:00-09:40 [数学](https://meeting.tencent.com/dm/KcNWSqsEsWer)
+* 10:20-11:00 [戏剧](https://meeting.tencent.com/dm/KcNWSqsEsWer)
+* 15:30-15:55 律动音乐
+  * [视频学习方式：《两只小象》](http://www.centv.cn/p/393859.html)
+  * [在线学习方式](https://meeting.tencent.com/dm/VoTPMMKUlBGD)
+
+### 6月1日（周三） {#20220601}
+
+* 09:00-09:40 [英语](https://meeting.tencent.com/dm/KcNWSqsEsWer)
+* 10:20-11:00 [语文](https://meeting.tencent.com/dm/KcNWSqsEsWer)
+* 15:30-16:15 振宁科学
+  * [视频学习方式：动物有哪些相同特点](https://cloud.tsinghua.edu.cn/d/1fc5d4469c9947609d0b/?p=%2F科学%20：%200531--0604&mode=list)
+  * [在线学习方式](https://meeting.tencent.com/dm/SXbDGduiWmNn)
+
+### 6月2日（周四） {#20220602}
+
+* 09:00-09:40 [语文](https://meeting.tencent.com/dm/KcNWSqsEsWer)
+* 10:20-11:00 [数学](https://meeting.tencent.com/dm/KcNWSqsEsWer)
+* 15:40-16:05 道德法制
+  * [视频学习方式](http://jjh.k618.cn/hljxx/)
+  * [在线学习方式](https://meeting.tencent.com/dm/Q1O3G8XQFR7H)
+
 ## 5月23日—5月27日 {#w03}
 
 [学习资源包](https://cloud.tsinghua.edu.cn/d/f31d9d0e3ace43279c99/)
