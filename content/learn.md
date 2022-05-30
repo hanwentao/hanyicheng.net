@@ -13,6 +13,7 @@ date: 2022-05-20T11:59:04+08:00
 
 ### 5月30日（周一） {#20220530}
 
+* [线上升国旗仪式](https://yunke.campus.qq.com/home/#/course/pcDetail?id=2000019772&type=public&ActivityClassCode=ctxpcj0&grade=一年级)
 * 09:00-09:40 [语文](https://meeting.tencent.com/dm/KcNWSqsEsWer)
 * 10:20-11:00 [英语](https://meeting.tencent.com/dm/KcNWSqsEsWer)
 * 15:30-15:55 艺术创作
