@@ -7,6 +7,51 @@ date: 2022-05-20T11:59:04+08:00
 
 清华附小2021级11班
 
+## 6月6日—6月10日 {#w05}
+
+[学习资源包](https://cloud.tsinghua.edu.cn/d/07a7b737370746518d50/)
+
+### 6月6日（周一） {#20220606}
+
+* 09:00-09:40 [语文](https://meeting.tencent.com/dm/KcNWSqsEsWer)
+* 10:00-10:40 [英语](https://meeting.tencent.com/dm/KcNWSqsEsWer)
+* 15:30-15:55 艺术创作
+  * [视频学习方式](https://cloud.tsinghua.edu.cn/d/07a7b737370746518d50/files/?p=%2F有趣的染纸简化版2022-06-06-2.mp4)
+  * [在线学习方式](https://meeting.tencent.com/dm/tM8C0YnnGXz8)
+
+### 6月7日（周二） {#20220607}
+
+* 09:00-09:40 [数学](https://meeting.tencent.com/dm/KcNWSqsEsWer)
+* 10:00-10:40 [戏剧](https://meeting.tencent.com/dm/KcNWSqsEsWer)
+* 15:30-15:55 律动音乐
+  * [视频学习方式：《理发师》](http://www.centv.cn/p/395588.html)
+  * [在线学习方式](https://meeting.tencent.com/dm/VoTPMMKUlBGD)
+
+### 6月8日（周三） {#20220608}
+
+* 09:00-09:40 [英语](https://meeting.tencent.com/dm/KcNWSqsEsWer)
+* 10:00-10:40 [语文](https://meeting.tencent.com/dm/KcNWSqsEsWer)
+* 15:30-16:15 振宁科学
+  * [视频学习方式](https://cloud.tsinghua.edu.cn/d/07a7b737370746518d50/?p=%2F科学%20%20动物拓展（一）&mode=list)
+  * [在线学习方式](https://meeting.tencent.com/dm/SXbDGduiWmNn)
+
+### 6月9日（周四） {#20220609}
+
+* 09:00-09:40 [语文](https://meeting.tencent.com/dm/KcNWSqsEsWer)
+* 10:00-10:40 [数学](https://meeting.tencent.com/dm/KcNWSqsEsWer)
+* 15:40-16:05 道德法制
+  * [视频学习方式](https://hljaxx.cyol.com/se4/ph7/indext.html)
+  * [在线学习方式](https://meeting.tencent.com/dm/Q1O3G8XQFR7H)
+
+### 6月10日（周五） {#20220610}
+
+* 09:00-09:40 [语文](https://meeting.tencent.com/dm/KcNWSqsEsWer)
+* 10:00-10:40 [数学](https://meeting.tencent.com/dm/KcNWSqsEsWer)
+* 15:00-15:25 阳光体育
+  * [视频学习方式：《小篮球游戏》二](http://www.centv.cn/p/355357.html)
+  * [自选：运动处方](https://cloud.tsinghua.edu.cn/d/07a7b737370746518d50/?p=%2F运动处方&mode=list)
+  * [在线学习方式](https://meeting.tencent.com/dm/EsmLoKgg6Q5j)
+
 ## 5月30日—6月2日 {#w04}
 
 [学习资源包](https://cloud.tsinghua.edu.cn/d/1fc5d4469c9947609d0b/)
