@@ -15,6 +15,7 @@ date: 2022-05-20T11:59:04+08:00
 
 * 09:00-09:40 [语文](https://meeting.tencent.com/dm/KcNWSqsEsWer)
 * 10:00-10:40 [英语](https://meeting.tencent.com/dm/KcNWSqsEsWer)
+* 11:00 [线上升国旗仪式](https://cloud.tsinghua.edu.cn/f/00f1ec0c7eb84acba5e0/)
 * 15:30-15:55 艺术创作
   * [视频学习方式](https://cloud.tsinghua.edu.cn/d/07a7b737370746518d50/files/?p=%2F有趣的染纸简化版2022-06-06-2.mp4)
   * [在线学习方式](https://meeting.tencent.com/dm/tM8C0YnnGXz8)
