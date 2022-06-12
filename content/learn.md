@@ -7,6 +7,51 @@ date: 2022-05-20T11:59:04+08:00
 
 清华附小2021级11班
 
+## 6月13日—6月17日 {#w06}
+
+[学习资源包](https://cloud.tsinghua.edu.cn/d/48abfd072f484aa89774/)
+
+### 6月13日（周一） {#20220613}
+
+* 09:00-09:40 [语文](https://meeting.tencent.com/dm/KcNWSqsEsWer)
+* 10:00-10:40 [英语](https://meeting.tencent.com/dm/KcNWSqsEsWer)
+* 15:40-16:05 艺术创作
+  * [视频学习方式](https://cloud.tsinghua.edu.cn/d/48abfd072f484aa89774/files/?p=%2F纸黏土动物制作合辑1.mp4)
+  * [在线学习方式](https://meeting.tencent.com/dm/tM8C0YnnGXz8)
+
+### 6月14日（周二） {#20220614}
+
+* 09:00-09:40 [数学](https://meeting.tencent.com/dm/KcNWSqsEsWer)
+* 10:00-10:40 [戏剧](https://meeting.tencent.com/dm/KcNWSqsEsWer)
+* 15:40-16:05 律动音乐
+  * [视频学习方式：《跳绳》](http://www.centv.cn/p/408424.html)
+  * [在线学习方式](https://meeting.tencent.com/dm/VoTPMMKUlBGD)
+
+### 6月15日（周三） {#20220615}
+
+* 09:00-09:40 [英语](https://meeting.tencent.com/dm/KcNWSqsEsWer)
+* 10:00-10:40 [语文](https://meeting.tencent.com/dm/KcNWSqsEsWer)
+* 15:40-16:05 振宁科学
+  * [视频学习方式]()
+  * [在线学习方式](https://meeting.tencent.com/dm/SXbDGduiWmNn)
+
+### 6月16日（周四） {#20220616}
+
+* 09:00-09:40 [语文](https://meeting.tencent.com/dm/KcNWSqsEsWer)
+* 10:00-10:40 [数学](https://meeting.tencent.com/dm/KcNWSqsEsWer)
+* 15:40-16:05 道德法制
+  * [视频学习方式](https://beike.k618.cn/rms/web/course_detail.html?courseId=1555)
+  * [在线学习方式](https://meeting.tencent.com/dm/Q1O3G8XQFR7H)
+
+### 6月17日（周五） {#20220617}
+
+* 09:00-09:40 [语文](https://meeting.tencent.com/dm/KcNWSqsEsWer)
+* 10:00-10:40 [数学](https://meeting.tencent.com/dm/KcNWSqsEsWer)
+* 15:00-15:25 阳光体育
+  * [视频学习方式：《跑跳步与芭蕾基本手位》](http://www.centv.cn/p/350442.html)
+  * [自选：运动处方](https://cloud.tsinghua.edu.cn/d/07a7b737370746518d50/?p=%2F运动处方&mode=list)
+  * [在线学习方式](https://meeting.tencent.com/dm/EsmLoKgg6Q5j)
+
 ## 6月6日—6月10日 {#w05}
 
 [学习资源包](https://cloud.tsinghua.edu.cn/d/07a7b737370746518d50/)
