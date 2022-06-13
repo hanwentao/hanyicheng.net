@@ -15,6 +15,7 @@ date: 2022-05-20T11:59:04+08:00
 
 * 09:00-09:40 [语文](https://meeting.tencent.com/dm/KcNWSqsEsWer)
 * 10:00-10:40 [英语](https://meeting.tencent.com/dm/KcNWSqsEsWer)
+* 11:00 [线上升国旗仪式](https://yunke.campus.qq.com/home/#/course/pcDetail?id=2000019801&type=public&ActivityClassCode=ctxpcj0&grade=一年级)
 * 15:40-16:05 艺术创作
   * [视频学习方式](https://cloud.tsinghua.edu.cn/d/48abfd072f484aa89774/files/?p=%2F纸黏土动物制作合辑1.mp4)
   * [在线学习方式](https://meeting.tencent.com/dm/tM8C0YnnGXz8)
@@ -32,7 +33,7 @@ date: 2022-05-20T11:59:04+08:00
 * 09:00-09:40 [英语](https://meeting.tencent.com/dm/KcNWSqsEsWer)
 * 10:00-10:40 [语文](https://meeting.tencent.com/dm/KcNWSqsEsWer)
 * 15:40-16:05 振宁科学
-  * [视频学习方式]()
+  * [视频学习方式](https://cloud.tsinghua.edu.cn/d/48abfd072f484aa89774/?p=%2F一年级线上科学学习资源-0613-0618&mode=list)
   * [在线学习方式](https://meeting.tencent.com/dm/SXbDGduiWmNn)
 
 ### 6月16日（周四） {#20220616}
