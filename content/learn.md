@@ -7,6 +7,52 @@ date: 2022-05-20T11:59:04+08:00
 
 清华附小2021级11班
 
+## 6月20日—6月24日 {#w07}
+
+[学习资源包](https://cloud.tsinghua.edu.cn/d/e8a1102bcba2429194b2/)
+
+### 6月20日（周一） {#20220620}
+
+* 09:00-09:40 [语文](https://meeting.tencent.com/dm/KcNWSqsEsWer)
+* 10:00-10:40 [英语](https://meeting.tencent.com/dm/KcNWSqsEsWer)
+* 11:00 [线上升国旗仪式](https://yunke.campus.qq.com/home/#/course/pcDetail?id=2000019801&type=public&ActivityClassCode=ctxpcj0&grade=一年级)
+* 15:30-15:55 艺术创作
+  * [视频学习方式](https://cloud.tsinghua.edu.cn/d/e8a1102bcba2429194b2/files/?p=%2F画中画资源.mp4)
+  * [在线学习方式](https://meeting.tencent.com/dm/tM8C0YnnGXz8)
+
+### 6月21日（周二） {#20220621}
+
+* 09:00-09:40 [数学](https://meeting.tencent.com/dm/KcNWSqsEsWer)
+* 10:00-10:40 [戏剧](https://meeting.tencent.com/dm/KcNWSqsEsWer)
+* 15:30-15:55 律动音乐
+  * [视频学习方式：《彝家娃娃真幸福》](https://www.zxx.edu.cn/syncClassroom/classActivity?activityId=86e55665-2666-4746-b6fb-fad8efcf1ed6)
+  * [在线学习方式](https://meeting.tencent.com/dm/VoTPMMKUlBGD)
+
+### 6月22日（周三） {#20220622}
+
+* 09:00-09:40 [英语](https://meeting.tencent.com/dm/KcNWSqsEsWer)
+* 10:00-10:40 [语文](https://meeting.tencent.com/dm/KcNWSqsEsWer)
+* 15:40-16:05 振宁科学
+  * [视频学习方式](https://pan.baidu.com/s/1csF6Al59vjx6tGnsO5khQg?pwd=6ufb)
+  * [在线学习方式](https://meeting.tencent.com/dm/SXbDGduiWmNn)
+
+### 6月23日（周四） {#20220623}
+
+* 09:00-09:40 [语文](https://meeting.tencent.com/dm/KcNWSqsEsWer)
+* 10:00-10:40 [数学](https://meeting.tencent.com/dm/KcNWSqsEsWer)
+* 15:40-16:05 道德法制
+  * [视频学习方式](https://hljaxx.cyol.com/se4/ph9/indext.html)
+  * [在线学习方式](https://meeting.tencent.com/dm/Q1O3G8XQFR7H)
+
+### 6月24日（周五） {#20220624}
+
+* 09:00-09:40 [语文](https://meeting.tencent.com/dm/KcNWSqsEsWer)
+* 10:00-10:40 [数学](https://meeting.tencent.com/dm/KcNWSqsEsWer)
+* 15:00-15:25 阳光体育
+  * [视频学习方式：《跑跳步与芭蕾基本手位》二](http://www.centv.cn/p/350443.html)
+  * [自选：运动处方](https://cloud.tsinghua.edu.cn/d/07a7b737370746518d50/?p=%2F运动处方&mode=list)
+  * [在线学习方式](https://meeting.tencent.com/dm/EsmLoKgg6Q5j)
+
 ## 6月13日—6月17日 {#w06}
 
 [学习资源包](https://cloud.tsinghua.edu.cn/d/48abfd072f484aa89774/)
