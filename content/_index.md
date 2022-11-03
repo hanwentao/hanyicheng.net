@@ -7,7 +7,7 @@ date: 2022-05-20T11:54:29+08:00
 
 我是
 
-* 一年级的小豆包
+* []{#grade}的[]{#type}学生
 * 狂热的汽车爱好者（距离我能拿驾照还有 []{#days} 天）
 * [Tomica 仿真车](https://www.tomy.cn/tomica)资深收藏家
 * [赛车总动员](https://cars.disney.com/)的忠实粉丝
@@ -20,7 +20,24 @@ date: 2022-05-20T11:54:29+08:00
 ![](hanyicheng.jpg)
 
 <script>
-  var target = Date.parse("2033-07-17T00:00:00+08:00");
-  var now = Date.now();
-  document.getElementById("days").innerText = Math.floor((target - now) / (24 * 60 * 60 * 1000));
+  const GRADE = ["一年级", "二年级", "三年级", "四年级", "五年级", "六年级",
+                 "初一", "初二", "初三", "高一", "高二", "高三",
+                 "大一", "大二", "大三", "大四"];
+  const TYPE = "小小小小小小中中中中中中大大大大";
+
+  function computeAge(year, month, day) {
+    let now = new Date();
+    let thisYear = now.getFullYear();
+    let age = thisYear - year;
+    let birthday = new Date(thisYear, month - 1, day);
+    return now >= birthday ? age : age - 1;
+  }
+
+  let target = Date.parse("2033-07-17T00:00:00+08:00");
+  let now = Date.now();
+  let days = Math.floor((target - now) / (24 * 60 * 60 * 1000));
+  let grade = computeAge(2021, 9, 1);
+  document.getElementById("grade").innerText = GRADE[grade];
+  document.getElementById("type").innerText = TYPE[grade];
+  document.getElementById("days").innerText = days;
 </script>
