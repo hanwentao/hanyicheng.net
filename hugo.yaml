@@ -1,5 +1,5 @@
 baseURL: https://hanyicheng.net/
-languageCode: zh-cn
+languageCode: zh-Hans
 title: 韩意铖的个人网站
 copyright: '&copy;2022&ndash;2023 <a href="https://hanwentao.net">韩文弢</a><br><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcounter.hanwentao.net%2Fcount%2Fjson%3Furl%3Dhanyicheng.net" alt="Hits">'
 theme: han
